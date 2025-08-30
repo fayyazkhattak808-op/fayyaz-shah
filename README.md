@@ -1,2 +1,2 @@
 # fayyaz-shah
-This is my firs github code
+This is my first github code
